@@ -1,4 +1,3 @@
-# 100DaysOfPython
 <h1 align="center"> 
 100_Days_of_Python
 </h1>
