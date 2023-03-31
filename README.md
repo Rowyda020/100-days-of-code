@@ -12,5 +12,5 @@ I <a href="#">pledge</a> to complete this 100 days of coding challenge.
 ## Contents
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data]()
-- <b>Day 1's project</b> - [Band-Nmae Generator]()
+- <b>Day 1's project</b> - [Band-Name-Generator]()
 
