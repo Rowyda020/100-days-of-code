@@ -1,0 +1,16 @@
+# 100DaysOfPython
+<h1 align="center"> 
+100_Days_of_Python
+</h1>
+<h5 align="center">
+Starting from : July 28, 2021
+</h5>
+
+<p align="center">
+I <a href="#">pledge</a> to complete this 100 days of coding challenge.
+</p>
+
+## Contents
+
+- <b>Day 1</b> - [Working with Variables in Python to Manage Data]()
+
