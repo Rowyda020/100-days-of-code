@@ -12,7 +12,7 @@ I <a href="#">pledge</a> to complete this 100 days of coding challenge.
     <img width="450" src=https://user-images.githubusercontent.com/76496105/229148144-f4458420-bde2-46b9-8a10-f3c6a0af6363.png>
 </p>
 
-## Contents
+## Content:
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data]()
 - <b>Day 1's project</b> - [Band-Name-Generator]()
