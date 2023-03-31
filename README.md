@@ -3,7 +3,7 @@
 100_Days_of_Python
 </h1>
 <h5 align="center">
-Starting from : July 28, 2021
+Starting from : 31st of March 2023
 </h5>
 
 <p align="center">
