@@ -9,7 +9,7 @@ Starting from : 31st of March 2023
 I <a href="#">pledge</a> to complete this 100 days of coding challenge.
 </p>
 <p align="center">
-    <img width="100" src=https://user-images.githubusercontent.com/76496105/229148144-f4458420-bde2-46b9-8a10-f3c6a0af6363.png>
+    <img width="400" src=https://user-images.githubusercontent.com/76496105/229148144-f4458420-bde2-46b9-8a10-f3c6a0af6363.png>
 </p>
 
 ## Contents
