@@ -17,4 +17,6 @@ I <a href="#">pledge</a> to complete this 100 days of coding challenge.
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data]()
 - <b>Day 1's project</b> - [Band-Name-Generator]()
 
+- <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings]()
+- <b>Day 2's project</b> - [Tip-Calculator]()
 
