@@ -18,7 +18,6 @@ print('''
 | (_| | | | | |  |__/   | | | |
  \__,_| |_| |_|  \___|  |_| |_|                                          
 ''')
-score = 0
 print("On your way back home after a long day at work, you found an alien on the middle of the road")
 first = int(input("Would you\n1)Talk to it  2)Run away? "))
 if first == 1:
