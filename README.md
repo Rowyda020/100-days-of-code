@@ -22,4 +22,7 @@ I <a href="#">pledge</a> to complete this 100 days of coding challenge.
 
 - <b>Day 3</b> - [Conditional Statments,Logical Operators, Code blocks and scopes ]()
 - <b>Day 3's project</b> - [Alien-Invasion Game]()
+- 
+- - <b>Day 4</b> - [Randomization, Pseudorandom number generator & Lists]()
+- <b>Day 4's project</b> - [Rock-Paper-Scissors Game]()
 
